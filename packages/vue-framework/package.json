@@ -8,14 +8,15 @@
   "keywords": [
     "vue",
     "vue2",
-    "vue3"
+    "vue3",
+    "dullar"
   ],
   "author": "Just be free <justbefree@126.com>",
   "homepage": "https://github.com/justbefree/dullar#readme",
   "license": "ISC",
   "main": "lib/vue-framework.js",
   "bin": {
-    "@dullar/vue-cli": "bin/vue-framework"
+    "dullar-vue-framework": "bin/vue-framework"
   },
   "directories": {
     "lib": "lib",
