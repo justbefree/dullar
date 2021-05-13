@@ -2,7 +2,7 @@
 * @Author: Just be free
 * @Date:   2021-05-13 09:51:51
 * @Last Modified by:   Just be free
-* @Last Modified time: 2021-05-13 09:51:54
+* @Last Modified time: 2021-05-13 13:23:20
 * @E-mail: justbefree@126.com
 */
 const qrcode = require('qrcode-terminal');
@@ -11,7 +11,7 @@ module.exports = {
   hi() {
     console.log("===============================================================");
     console.log("|                                                             |");
-    console.log("|                 " + chalk.white.bold("Welcome to use vue2-pro-cli") + "                 |");
+    console.log("|             " + chalk.white.bold("Welcome to use @dullar/vue-framework") + "             |");
     console.log("|                                                             |");
     console.log("===============================================================");
     console.log();
