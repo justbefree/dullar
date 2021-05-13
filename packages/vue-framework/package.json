@@ -1,6 +1,9 @@
 {
   "name": "@dullar/vue-framework",
   "version": "0.0.8",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A tools for you to build your web project based on Vue2/3",
   "keywords": [
     "vue",
@@ -42,5 +45,5 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2"
   },
-  "gitHead": "217ba1fe3ff3b2a8be81513ab2dcdbb7c84cfff1"
+  "gitHead": "c710db796bb60c20cf8e365744dd36ff72dfd6d6"
 }
