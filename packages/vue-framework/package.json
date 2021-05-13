@@ -1,6 +1,6 @@
 {
   "name": "@dullar/vue-framework",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A tools for you to build your web project based on Vue2/3",
   "keywords": [
     "vue",
@@ -41,5 +41,6 @@
     "ora": "^5.4.0",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2"
-  }
+  },
+  "gitHead": "dff90202049622f70e8203b980af54af9aec7d0a"
 }
